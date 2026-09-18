@@ -1,3 +1,3 @@
 # USERVE
 ## System Architecture
-![System Architecture Diagram](./Diagram.jpg)
+![System Architecture Diagram](assets/Diagram.jpg)
